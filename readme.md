@@ -3,6 +3,18 @@
 
 
 
+![image](https://user-images.githubusercontent.com/57616193/208442463-7a01f5cc-c7d2-4eb1-9049-d3557bd8cb20.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57616193/208442649-add56f0d-6628-4a56-8c6b-d1275bb583cb.png)
+
+
+
+![image](https://user-images.githubusercontent.com/57616193/208442795-b7781710-7ca8-4218-bbae-92ca62603e6e.png)
+
+
+
 
 
 class called VirtualPet, which represents a virtual pet in a game. The VirtualPet class has a number of attributes, such as name, hunger, boredom, tiredness, dirtiness, age, and alive, that store information about the virtual pet.
